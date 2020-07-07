@@ -1,0 +1,9 @@
+C:\Users\Yazilim-3\Desktop\BlazorIdentitySample\Shared\bin\Debug\netstandard2.1\BlazorIdentitySample.Shared.deps.json
+C:\Users\Yazilim-3\Desktop\BlazorIdentitySample\Shared\bin\Debug\netstandard2.1\BlazorIdentitySample.Shared.dll
+C:\Users\Yazilim-3\Desktop\BlazorIdentitySample\Shared\bin\Debug\netstandard2.1\BlazorIdentitySample.Shared.pdb
+C:\Users\Yazilim-3\Desktop\BlazorIdentitySample\Shared\obj\Debug\netstandard2.1\BlazorIdentitySample.Shared.csprojAssemblyReference.cache
+C:\Users\Yazilim-3\Desktop\BlazorIdentitySample\Shared\obj\Debug\netstandard2.1\BlazorIdentitySample.Shared.AssemblyInfoInputs.cache
+C:\Users\Yazilim-3\Desktop\BlazorIdentitySample\Shared\obj\Debug\netstandard2.1\BlazorIdentitySample.Shared.AssemblyInfo.cs
+C:\Users\Yazilim-3\Desktop\BlazorIdentitySample\Shared\obj\Debug\netstandard2.1\BlazorIdentitySample.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Yazilim-3\Desktop\BlazorIdentitySample\Shared\obj\Debug\netstandard2.1\BlazorIdentitySample.Shared.dll
+C:\Users\Yazilim-3\Desktop\BlazorIdentitySample\Shared\obj\Debug\netstandard2.1\BlazorIdentitySample.Shared.pdb

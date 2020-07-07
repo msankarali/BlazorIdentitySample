@@ -1,0 +1,230 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Yazilim-3\\Desktop\\BlazorIdentitySample\\Server\\BlazorIdentitySample.Server.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Yazilim-3\\Desktop\\BlazorIdentitySample\\Client\\BlazorIdentitySample.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yazilim-3\\Desktop\\BlazorIdentitySample\\Client\\BlazorIdentitySample.Client.csproj",
+        "projectName": "BlazorIdentitySample.Client",
+        "projectPath": "C:\\Users\\Yazilim-3\\Desktop\\BlazorIdentitySample\\Client\\BlazorIdentitySample.Client.csproj",
+        "packagesPath": "C:\\Users\\Yazilim-3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yazilim-3\\Desktop\\BlazorIdentitySample\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yazilim-3\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\Yazilim-3\\Desktop\\BlazorIdentitySample\\Shared\\BlazorIdentitySample.Shared.csproj": {
+                "projectPath": "C:\\Users\\Yazilim-3\\Desktop\\BlazorIdentitySample\\Shared\\BlazorIdentitySample.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Authentication": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yazilim-3\\Desktop\\BlazorIdentitySample\\Server\\BlazorIdentitySample.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yazilim-3\\Desktop\\BlazorIdentitySample\\Server\\BlazorIdentitySample.Server.csproj",
+        "projectName": "BlazorIdentitySample.Server",
+        "projectPath": "C:\\Users\\Yazilim-3\\Desktop\\BlazorIdentitySample\\Server\\BlazorIdentitySample.Server.csproj",
+        "packagesPath": "C:\\Users\\Yazilim-3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yazilim-3\\Desktop\\BlazorIdentitySample\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yazilim-3\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Yazilim-3\\Desktop\\BlazorIdentitySample\\Client\\BlazorIdentitySample.Client.csproj": {
+                "projectPath": "C:\\Users\\Yazilim-3\\Desktop\\BlazorIdentitySample\\Client\\BlazorIdentitySample.Client.csproj"
+              },
+              "C:\\Users\\Yazilim-3\\Desktop\\BlazorIdentitySample\\Shared\\BlazorIdentitySample.Shared.csproj": {
+                "projectPath": "C:\\Users\\Yazilim-3\\Desktop\\BlazorIdentitySample\\Shared\\BlazorIdentitySample.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.ApiAuthorization.IdentityServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yazilim-3\\Desktop\\BlazorIdentitySample\\Shared\\BlazorIdentitySample.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yazilim-3\\Desktop\\BlazorIdentitySample\\Shared\\BlazorIdentitySample.Shared.csproj",
+        "projectName": "BlazorIdentitySample.Shared",
+        "projectPath": "C:\\Users\\Yazilim-3\\Desktop\\BlazorIdentitySample\\Shared\\BlazorIdentitySample.Shared.csproj",
+        "packagesPath": "C:\\Users\\Yazilim-3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yazilim-3\\Desktop\\BlazorIdentitySample\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yazilim-3\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
